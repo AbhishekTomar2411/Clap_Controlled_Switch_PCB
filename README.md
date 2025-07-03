@@ -27,7 +27,7 @@ This circuit listens for a **clap or tap sound**, amplifies the microphone signa
 
 ## ⚡ Circuit Diagram
 
-![Schematic](schematic.png)
+![Schematic](sch.png)
 
 ---
 
@@ -59,6 +59,8 @@ This circuit listens for a **clap or tap sound**, amplifies the microphone signa
 ### Bottom View (Solder Side)
 ![Back View](back.png)
 
+### Copper trace (traces)
+![Trace view](trace.png)
 ---
 
 ## 📂 Files Included
